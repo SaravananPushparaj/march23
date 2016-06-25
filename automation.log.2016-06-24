@@ -1,0 +1,27 @@
+2016-06-24 21:03:20 INFO  Scenario_Search:20 - Executing the Testcase GB_01  Order is  1.0
+2016-06-24 21:04:07 INFO  Scenario_Search:39 - Passed as Expected is Sorry! There are no products to display.and Actual msg are sameSorry! There are no products to display.
+2016-06-24 22:47:35 INFO  Scenario_Search:22 - Executing the Testcase GB_01  Order is  1.0
+2016-06-24 22:48:12 INFO  Scenario_Search:42 - Passed as Expected is Sorry! There are no products to display.and Actual msg are sameSorry! There are no products to display.
+2016-06-24 22:48:17 INFO  Scenario_Search:63 - Executing the Testcase GB_01  Order is  1.0
+2016-06-24 22:51:42 INFO  Scenario_Search:22 - Executing the Testcase GB_01  Order is  1.0
+2016-06-24 22:52:17 INFO  Scenario_Search:42 - Passed as Expected is Sorry! There are no products to display.and Actual msg are sameSorry! There are no products to display.
+2016-06-24 22:52:22 INFO  Scenario_Search:63 - Executing the Testcase GB_02  Order is  1.0
+2016-06-24 22:53:11 INFO  Scenario_Search:89 - Failed as Expected is 178.0and Actual msg are different194 products
+2016-06-24 22:53:16 INFO  Scenario_Search:63 - Executing the Testcase GB_03  Order is  1.0
+2016-06-24 22:53:57 INFO  Scenario_Search:89 - Failed as Expected is 428.0and Actual msg are different367 products
+2016-06-24 22:54:02 INFO  Scenario_Search:63 - Executing the Testcase GB_04  Order is  1.0
+2016-06-24 22:54:47 INFO  Scenario_Search:89 - Failed as Expected is 4.0and Actual msg are different3 products
+2016-06-24 22:57:18 INFO  Scenario_Search:22 - Executing the Testcase GB_01  Order is  1.0
+2016-06-24 22:58:05 INFO  Scenario_Search:42 - Passed as Expected is Sorry! There are no products to display.and Actual msg are sameSorry! There are no products to display.
+2016-06-24 22:58:10 INFO  Scenario_Search:63 - Executing the Testcase GB_02  Order is  1.0
+2016-06-24 22:58:57 INFO  Scenario_Search:89 - Failed as Expected is 178and Actual msg are different194 products
+2016-06-24 22:59:02 INFO  Scenario_Search:63 - Executing the Testcase GB_03  Order is  1.0
+2016-06-24 23:00:09 INFO  Scenario_Search:89 - Failed as Expected is 428and Actual msg are different367 products
+2016-06-24 23:00:14 INFO  Scenario_Search:63 - Executing the Testcase GB_04  Order is  1.0
+2016-06-24 23:01:00 INFO  Scenario_Search:89 - Failed as Expected is 4and Actual msg are different3 products
+2016-06-24 23:02:49 INFO  Scenario_Search:63 - Executing the Testcase GB_02  Order is  1.0
+2016-06-24 23:03:47 INFO  Scenario_Search:89 - Failed as Expected is 194and Actual msg are different194 products
+2016-06-24 23:44:17 INFO  Scenario_Search:64 - Executing the Testcase GB_02  Order is  1.0
+2016-06-24 23:45:10 INFO  Scenario_Search:86 - Passed as Expected is 194and Actual msg are same194
+2016-06-24 23:49:52 INFO  Scenario_Search:22 - Executing the Testcase GB_01  Order is  1.0
+2016-06-24 23:50:34 INFO  Scenario_Search:43 - Passed as Expected is Sorry! There are no products to display.and Actual msg are sameSorry! There are no products to display.

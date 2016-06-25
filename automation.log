@@ -1,0 +1,6 @@
+2016-06-25 17:09:29 INFO  Scenario_Search:22 - Executing the Testcase GB_01  Order is  1.0
+2016-06-25 17:10:10 INFO  Scenario_Search:49 - Failed as Expected is Sorry! There are no products.and Actual msg are differentSorry! There are no products to display.
+2016-06-25 17:23:15 INFO  Scenario_Search:? - Executing the Testcase GB_01  Order is  1.0
+2016-06-25 17:23:55 INFO  Scenario_Search:? - Failed as Expected is Sorry! There are no products.and Actual msg are differentSorry! There are no products to display.
+2016-06-25 17:24:45 INFO  Scenario_Search:? - Executing the Testcase GB_01  Order is  1.0
+2016-06-25 17:25:20 INFO  Scenario_Search:? - Passed as Expected is Sorry! There are no products to display.and Actual msg are sameSorry! There are no products to display.
